@@ -2,3 +2,6 @@
 *.pyc
 *.txt
 *.csv
+*.html
+chromedriver.exe
+*.log
